@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 ```text
-Go                20 hrs 44 mins  ██████████▒░░░░░░░░░░░░░░   40.90 % 
-Vue.js            17 hrs 40 mins  ████████▓░░░░░░░░░░░░░░░░   34.83 % 
-TypeScript        5 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Protocol Buffer   1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JavaScript        1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Go           22 hrs 21 mins  ██████████▓░░░░░░░░░░░░░░   42.43 % 
+Vue.js       16 hrs 19 mins  ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
+TypeScript   4 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Svelte       2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript   2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 <!--END_SECTION:waka-->
