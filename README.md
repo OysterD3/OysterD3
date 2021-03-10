@@ -1,4 +1,4 @@
-### 📊 Stats
+## 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OysterD3&theme=dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
