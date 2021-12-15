@@ -58,7 +58,7 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,292 Contributions in the Year 2021
+> 🏆 1,293 Contributions in the Year 2021
  > 
 > 📦 70.6 kB Used in GitHub's Storage 
  > 
@@ -97,17 +97,17 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Go                       13 hrs 36 mins      ████████████░░░░░░░░░░░░░   50.81% 
-Vue.js                   5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02% 
-TypeScript               4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
-Svelte                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
-Protocol Buffer          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+Go                       10 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.71% 
+Vue.js                   5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.36% 
+Svelte                   4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+TypeScript               4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
+Protocol Buffer          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 🔥 Editors: 
-IntelliJ                 26 hrs 47 mins      █████████████████████████   100.0%
+IntelliJ                 26 hrs 52 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 47 mins      █████████████████████████   100.0%
+Mac                      26 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
