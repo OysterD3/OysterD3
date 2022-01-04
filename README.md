@@ -54,11 +54,11 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 4 Contributions in the Year 2022
  > 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
@@ -97,17 +97,17 @@ Sunday       54 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Go                       11 hrs 15 mins      ████████████░░░░░░░░░░░░░   51.12% 
-TypeScript               3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-Vue.js                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Protocol Buffer          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+Go                       8 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.08% 
+TypeScript               3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04% 
+Vue.js                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
+Protocol Buffer          54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
+YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
 🔥 Editors: 
-IntelliJ                 22 hrs 2 mins       █████████████████████████   100.0%
+IntelliJ                 18 hrs 57 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      22 hrs 2 mins       █████████████████████████   100.0%
+Mac                      18 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
