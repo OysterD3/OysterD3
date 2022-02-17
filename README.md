@@ -54,11 +54,11 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 38 Contributions in the Year 2022
+> 🏆 39 Contributions in the Year 2022
  > 
 > 📦 71.0 kB Used in GitHub's Storage 
  > 
@@ -81,11 +81,11 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 
 ```text
 Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Tuesday      58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+Tuesday      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
 Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
 Thursday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
 Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
 Sunday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
 
 ```
@@ -128,7 +128,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 01:10:58 UTC
+ Last Updated on 17/02/2022 00:59:25 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
