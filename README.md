@@ -56,11 +56,11 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C021%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,039 Contributions in the Year 2022
+> 🏆 3,040 Contributions in the Year 2022
  > 
 > 📦 77.0 kB Used in GitHub's Storage 
  > 
@@ -99,17 +99,17 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 7 mins        ██████████████░░░░░░░░░░░   58.9% 
-Go                       2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   23.32% 
-Svelte                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+Vue.js                   4 hrs 46 mins       ███████████████░░░░░░░░░░   60.66% 
+Go                       1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95% 
+Svelte                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 🔥 Editors: 
-IntelliJ                 8 hrs 42 mins       █████████████████████████   100.0%
+IntelliJ                 7 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 42 mins       █████████████████████████   100.0%
+Mac                      7 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Svelte                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 02:07:59 UTC
+ Last Updated on 29/10/2022 01:51:44 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
