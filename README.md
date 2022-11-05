@@ -54,15 +54,15 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,917 Contributions in the Year 2022
+> 🏆 2,918 Contributions in the Year 2022
  > 
-> 📦 75.8 kB Used in GitHub's Storage 
+> 📦 75.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,17 +99,17 @@ Sunday       102 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Go                       4 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.25% 
-Svelte                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
-Vue.js                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Go                       4 hrs 48 mins       ████████████░░░░░░░░░░░░░   50.37% 
+Svelte                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+Vue.js                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
 
 🔥 Editors: 
-IntelliJ                 9 hrs 19 mins       █████████████████████████   100.0%
+IntelliJ                 9 hrs 32 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 19 mins       █████████████████████████   100.0%
+Mac                      9 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Svelte                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 02:00:30 UTC
+ Last Updated on 05/11/2022 01:52:45 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
