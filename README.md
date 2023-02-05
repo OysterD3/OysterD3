@@ -54,13 +54,13 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C348%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 61 Contributions in the Year 2023
+> 🏆 63 Contributions in the Year 2023
  > 
 > 📦 77.4 kB Used in GitHub's Storage 
  > 
@@ -84,10 +84,10 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 ```text
 Monday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
 Tuesday      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Wednesday    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
+Wednesday    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
 Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
 Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Saturday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+Saturday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
 Sunday       105 commits    █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
@@ -99,17 +99,17 @@ Sunday       105 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               11 hrs 50 mins      █████████████████████░░░░   86.07% 
-Go                       1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-Vue.js                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+TypeScript               11 hrs 13 mins      █████████████████████░░░░   85.45% 
+Go                       1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+.env file                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
+Vue.js                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 🔥 Editors: 
-IntelliJ                 13 hrs 45 mins      █████████████████████████   100.0%
+IntelliJ                 13 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs 45 mins      █████████████████████████   100.0%
+Mac                      13 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ Svelte                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/OysterD3/OysterD3/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 01:21:42 UTC
+ Last Updated on 05/02/2023 01:29:53 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
