@@ -12,7 +12,7 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="programmer" width="230"/>
 Hi guys, I'm Oyster Lee! A Malaysian Full Stack Developer.
 
-Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my/) as a **Frontend Developer**
+Currently, I am working remotely for [SleekFlow](https://sleeflow.io/) as a **Frontend Developer**
 
 ## <img src="https://media.giphy.com/media/dYmJ8k9pxr9Zuye3Gq/giphy.gif" width="40px" /> What kind of projects I have done?
 
@@ -22,7 +22,6 @@ Currently, I am working remotely for [Revenue Monster](https://revenuemonster.my
 * Listing Platform
 * Review Platform
 * Reporting Automation
-* POS System **_(WIP)_**
 
 ## <img src="https://media.giphy.com/media/WmiXmdQ1KNlGa7srHF/giphy.gif" width="40px" /> Technologies and Tools
 
