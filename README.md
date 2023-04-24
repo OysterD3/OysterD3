@@ -55,13 +55,13 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C621%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 77.9 kB Used in GitHub's Storage 
+> 📦 78.0 kB Used in GitHub's Storage 
  > 
-> 🏆 378 Contributions in the Year 2023
+> 🏆 379 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +72,21 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6983 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌆 Daytime                7850 commits        ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                4356 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌙 Night                  1403 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+🌞 Morning                6973 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌆 Daytime                7847 commits        ██████████░░░░░░░░░░░░░░░   38.16 % 
+🌃 Evening                4340 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+🌙 Night                  1403 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3899 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Tuesday                  2997 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Wednesday                3354 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 3049 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Friday                   2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Saturday                 1956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Sunday                   2437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   3893 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Tuesday                  2992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                3346 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 3050 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Friday                   2897 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 1954 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Sunday                   2431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -126,7 +126,7 @@ Svelte                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2023 01:26:00 UTC
+ Last Updated on 24/04/2023 01:20:03 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
