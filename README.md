@@ -55,13 +55,13 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C004%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 79.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,174 Contributions in the Year 2023
+> 🏆 1,177 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +72,21 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11472 commits       ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌆 Daytime                12885 commits       █████████░░░░░░░░░░░░░░░░   37.53 % 
-🌃 Evening                7062 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌙 Night                  2918 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌞 Morning                11527 commits       ████████░░░░░░░░░░░░░░░░░   33.39 % 
+🌆 Daytime                12969 commits       █████████░░░░░░░░░░░░░░░░   37.57 % 
+🌃 Evening                7091 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+🌙 Night                  2936 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7801 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Tuesday                  4925 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Wednesday                4994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Thursday                 5056 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Friday                   4932 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Saturday                 2885 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Sunday                   3744 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Monday                   7834 commits        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Tuesday                  4968 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Wednesday                5025 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 5095 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Friday                   4962 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 2893 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Sunday                   3746 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 
 
@@ -122,7 +122,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2023 01:07:03 UTC
+ Last Updated on 27/08/2023 01:12:33 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
