@@ -53,6 +53,8 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C841%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -82,7 +84,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 00:31:26 UTC
+ Last Updated on 13/04/2024 00:29:27 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
