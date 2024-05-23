@@ -53,7 +53,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C969%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C970%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -61,7 +61,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 
 > 📦 85.8 kB Used in GitHub's Storage 
  > 
-> 🏆 870 Contributions in the Year 2024
+> 🏆 874 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,9 +72,9 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14461 commits       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌞 Morning                14462 commits       ████████░░░░░░░░░░░░░░░░░   33.61 % 
 🌆 Daytime                14859 commits       █████████░░░░░░░░░░░░░░░░   34.53 % 
-🌃 Evening                9567 commits        ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+🌃 Evening                9573 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
 🌙 Night                  4141 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -82,11 +82,11 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ```text
 Monday                   10100 commits       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
 Tuesday                  4191 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Wednesday                5047 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Wednesday                5054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 Thursday                 6514 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 Friday                   7131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 Saturday                 4083 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Sunday                   5962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   5962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 
 
@@ -96,17 +96,17 @@ Sunday                   5962 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               7 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.25 % 
-Go                       5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-Lua                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.08 % 
+Go                       5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.28 % 
+Lua                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 19 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2024 00:24:38 UTC
+ Last Updated on 23/05/2024 00:24:30 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
