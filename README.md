@@ -53,7 +53,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C974%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C978%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -61,7 +61,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 
 > 📦 85.9 kB Used in GitHub's Storage 
  > 
-> 🏆 879 Contributions in the Year 2024
+> 🏆 880 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14524 commits       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌞 Morning                14525 commits       ████████░░░░░░░░░░░░░░░░░   33.59 % 
 🌆 Daytime                14931 commits       █████████░░░░░░░░░░░░░░░░   34.53 % 
 🌃 Evening                9622 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
 🌙 Night                  4165 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
@@ -86,7 +86,7 @@ Wednesday                5071 commits        ███░░░░░░░░�
 Thursday                 6553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 Friday                   7177 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 Saturday                 4099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Sunday                   5991 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   5992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 ```
 
 
@@ -96,17 +96,17 @@ Sunday                   5991 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               7 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.21 % 
-Go                       4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Lua                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               7 hrs 50 mins       ██████████████░░░░░░░░░░░   55.61 % 
+Go                       4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Lua                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   14 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 00:26:30 UTC
+ Last Updated on 27/05/2024 00:25:14 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
