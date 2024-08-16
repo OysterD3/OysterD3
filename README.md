@@ -55,13 +55,13 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C046%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 86.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,028 Contributions in the Year 2024
+> 🏆 1,029 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +72,21 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16044 commits       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌆 Daytime                16633 commits       █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌃 Evening                10708 commits       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌙 Night                  4715 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌞 Morning                16222 commits       ████████░░░░░░░░░░░░░░░░░   33.31 % 
+🌆 Daytime                16849 commits       █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌃 Evening                10843 commits       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌙 Night                  4787 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   11158 commits       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Tuesday                  4637 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Wednesday                5581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Thursday                 7431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   8152 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Saturday                 4437 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   6704 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Monday                   11293 commits       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Tuesday                  4682 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Wednesday                5633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Thursday                 7545 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   8287 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 4470 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Sunday                   6791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -126,7 +126,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 00:27:53 UTC
+ Last Updated on 16/08/2024 00:28:28 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
