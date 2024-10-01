@@ -61,8 +61,6 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 
 > 📦 86.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,124 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -72,16 +70,16 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7740 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌞 Morning                7741 commits        █████████░░░░░░░░░░░░░░░░   35.98 % 
 🌆 Daytime                7924 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌃 Evening                4655 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌃 Evening                4659 commits        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
 🌙 Night                  1188 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  3137 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Monday                   3480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Tuesday                  3137 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Wednesday                3719 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Thursday                 3164 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Friday                   2672 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
@@ -122,7 +120,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 00:26:47 UTC
+ Last Updated on 01/10/2024 00:29:58 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
