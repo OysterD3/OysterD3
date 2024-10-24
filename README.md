@@ -53,13 +53,15 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C099%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,190 Contributions in the Year 2024
+> 🏆 1,193 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,6 +69,42 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7774 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌆 Daytime                7930 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌃 Evening                4698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌙 Night                  1188 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  3147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Wednesday                3738 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Thursday                 3177 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   2675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Saturday                 2595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Sunday                   2763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,7 +122,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2024 00:29:44 UTC
+ Last Updated on 24/10/2024 00:28:08 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
