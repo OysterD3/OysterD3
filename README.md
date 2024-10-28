@@ -55,13 +55,11 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C099%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.1 kB Used in GitHub's Storage 
- > 
-> 🏆 1,196 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +70,21 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7777 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌞 Morning                7779 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
 🌆 Daytime                7930 commits        █████████░░░░░░░░░░░░░░░░   36.72 % 
-🌃 Evening                4698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-🌙 Night                  1188 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+🌃 Evening                4698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+🌙 Night                  1191 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Monday                   3499 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Tuesday                  3147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Wednesday                3738 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Thursday                 3178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Thursday                 3178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Friday                   2676 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 Saturday                 2596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Sunday                   2763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Sunday                   2764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -122,7 +120,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 00:30:09 UTC
+ Last Updated on 28/10/2024 00:29:25 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
