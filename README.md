@@ -55,13 +55,13 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C099%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,206 Contributions in the Year 2024
+> 🏆 1,207 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7783 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌞 Morning                7784 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
 🌆 Daytime                7930 commits        █████████░░░░░░░░░░░░░░░░   36.70 % 
 🌃 Evening                4703 commits        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
 🌙 Night                  1191 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
@@ -84,7 +84,7 @@ Monday                   3505 commits        ████░░░░░░░�
 Tuesday                  3148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Wednesday                3739 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 Thursday                 3179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Friday                   2676 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Friday                   2677 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 Saturday                 2596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 Sunday                   2764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 ```
@@ -122,7 +122,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2024 00:31:06 UTC
+ Last Updated on 02/11/2024 00:29:28 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
