@@ -53,66 +53,28 @@ Currently, I am working remotely for [SleekFlow](https://sleekflow.io/) as a **F
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C099%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,215 Contributions in the Year 2024
+> 🏆 1,218 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7791 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌆 Daytime                7930 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
-🌃 Evening                4703 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-🌙 Night                  1191 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3506 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  3149 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Wednesday                3740 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 3180 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Friday                   2678 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Saturday                 2597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Sunday                   2765 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.07 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Go                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -122,7 +84,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OysterD3/OysterD3/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 00:28:09 UTC
+ Last Updated on 10/11/2024 00:30:05 UTC
 <!--END_SECTION:waka-->
 
 [![Oyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=OysterD3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
