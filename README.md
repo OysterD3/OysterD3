@@ -7,6 +7,8 @@ Currently, I am working for [Ant International](https://www.antglobal.com/) as a
 
 [Linktree](https://linktr.ee/OysterD3)
 
+Ant Internation is active hiring. Message me for internal referral: oyster.lee@antgroup.com
+
 ## <img src="https://media.giphy.com/media/dYmJ8k9pxr9Zuye3Gq/giphy.gif" width="40px" /> What kind of projects I have done?
 
 * Hotel Booking System
